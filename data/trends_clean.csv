@@ -1,0 +1,106 @@
+post_id,title,category,score,num_comments,author,collected_at
+47616361,Google releases Gemma 4 open models,technology,1806,473,jeffmcjunkin,2026-04-08 09:22:56
+47660925,Issue: Claude Code is unusable for complex engineering tasks with Feb updates,technology,1234,674,StanAngeloff,2026-04-08 09:22:56
+47633396,Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw,technology,1091,829,firloop,2026-04-08 09:22:56
+47679121,Project Glasswing: Securing critical software for the AI era,technology,994,438,Ryan5453,2026-04-08 09:22:56
+47640728,Show HN: A game where you build a GPU,technology,951,186,Jaso1024,2026-04-08 09:22:56
+47648828,"Eight years of wanting, three months of building with AI",technology,938,297,brilee,2026-04-08 09:22:56
+47655408,Show HN: I built a tiny LLM to demystify how language models work,technology,884,131,armanified,2026-04-08 09:22:56
+47609564,Steam on Linux Use Skyrocketed Above 5% in March,technology,784,367,hkmaxpro,2026-04-08 09:22:56
+47624645,Show HN: Apfel – The free AI already on your Mac,technology,733,155,franze,2026-04-08 09:22:56
+47637757,Embarrassingly simple self-distillation improves code generation,technology,650,199,Anon84,2026-04-08 09:22:56
+47612724,Lemonade by AMD: a fast and open source local LLM server using GPU and NPU,technology,569,112,AbuAssar,2026-04-08 09:22:56
+47618189,Tailscale's new macOS home,technology,564,310,tosh,2026-04-08 09:22:56
+47640380,Apple approves driver that lets Nvidia eGPUs work with Arm Macs,technology,524,240,naves,2026-04-08 09:22:56
+47615490,Artemis computer running two instances of MS outlook; they can't figure out why,technology,496,363,mooreds,2026-04-08 09:22:56
+47655466,Employers use your personal data to figure out the lowest salary you'll accept,technology,447,282,thisislife2,2026-04-08 09:22:56
+47633855,Claude Code Found a Linux Vulnerability Hidden for 23 Years,technology,425,268,eichin,2026-04-08 09:22:56
+47637377,LÖVE: 2D Game Framework for Lua,technology,409,214,cl3misch,2026-04-08 09:22:56
+47618223,We replaced RAG with a virtual filesystem for our AI documentation assistant,technology,408,148,denssumesh,2026-04-08 09:22:56
+47644864,"AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",technology,403,158,crcastle,2026-04-08 09:22:56
+47651540,Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code,technology,401,99,vbtechguy,2026-04-08 09:22:56
+47649117,Someone at BrowserStack is leaking users' email addresses,technology,386,103,m_km,2026-04-08 09:22:56
+47609694,Email obfuscation: What works in 2026?,technology,370,105,jaden,2026-04-08 09:22:56
+47617415,Good ideas do not need lots of lies in order to gain public acceptance (2008),technology,365,206,sedev,2026-04-08 09:22:56
+47652322,Music for Programming,technology,345,171,merusame,2026-04-08 09:22:56
+47664205,Adobe modifies hosts file to detect whether Creative Cloud is installed,technology,321,150,rglullis,2026-04-08 09:22:56
+47647788,The threat is comfortable drift toward not understanding what you're doing,worldnews,964,614,zaikunzhang,2026-04-08 09:22:56
+47615002,Qwen3.6-Plus: Towards real world agents,worldnews,592,209,pretext,2026-04-08 09:22:56
+47677853,GLM-5.1: Towards Long-Horizon Tasks,worldnews,452,173,zixuanlimit,2026-04-08 09:22:56
+47639976,German men 18-45 need military permit for extended stays abroad,worldnews,399,720,L_226,2026-04-08 09:22:56
+47660954,German police name alleged leaders of GandCrab and REvil ransomware groups,worldnews,316,155,Bender,2026-04-08 09:22:56
+47662945,Show HN: GovAuctions lets you browse government auctions at once,worldnews,297,85,player_piano,2026-04-08 09:22:56
+47615756,Renewables reached nearly 50% of global electricity capacity last year,worldnews,297,148,Growtika,2026-04-08 09:22:56
+47618221,The Australian government has announced gambling advertising reforms,worldnews,133,101,gostsamo,2026-04-08 09:22:56
+47645817,How Pope Leo is pushing back on divine justification of war,worldnews,76,42,1659447091,2026-04-08 09:22:56
+47651626,Reaffirming our commitment to child safety in the face of EuropeanUnion inaction,worldnews,71,88,upofadown,2026-04-08 09:22:56
+47664308,JPMorgan warns Tesla stock could sink 60% in new note,worldnews,61,18,freediddy,2026-04-08 09:22:56
+47656682,Winners of the 2026 Kokuyo Design Awards,worldnews,52,17,zdw,2026-04-08 09:22:56
+47653036,Satellite firm Planet Labs to indefinitely withold Iran war imagery,worldnews,42,12,anigbrowl,2026-04-08 09:22:56
+47671498,When War Crimes Rhetoric Becomes Battlefield Reality,worldnews,40,41,dogscatstrees,2026-04-08 09:22:56
+47680124,IPv6 is the only way forward,worldnews,40,111,quaintdev,2026-04-08 09:22:56
+47683613,ICE acknowledges it is using powerful spyware,worldnews,29,3,dnemmers,2026-04-08 09:22:56
+47629021,Global Physics Photowalk: 2025 winners revealed,worldnews,26,1,ibobev,2026-04-08 09:22:56
+47677952,The Blueprint of a North Korean Attack on Open-Source,worldnews,26,10,brene,2026-04-08 09:22:56
+47650273,"Meta, Google under attack as court cases bypass 30-year-old legal shield",worldnews,18,10,1vuio0pswjnm7,2026-04-08 09:22:56
+47668127,Bitwarden Is Down,worldnews,16,3,zhan_eg,2026-04-08 09:22:56
+47669649,Global Fuel Shortage Pushes Governments Toward Demand Controls,worldnews,14,10,toomuchtodo,2026-04-08 09:22:56
+47610590,The East India Company in Japan,worldnews,14,2,Thevet,2026-04-08 09:22:56
+47671930,A New Oil Shock Accelerates a Return to Nuclear Power,worldnews,13,12,rustoo,2026-04-08 09:22:56
+47675835,Wireless Festival cancelled after government stops Kanye West entering UK,worldnews,12,1,manarth,2026-04-08 09:22:56
+47672888,IDF admits Iran can keep firing missiles as long as war continues,worldnews,12,2,johnbarron,2026-04-08 09:22:56
+47639727,"When legal sports betting surges, so do Americans' financial problems",sports,221,146,pseudolus,2026-04-08 09:22:56
+47655268,"Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",sports,98,22,mohshomis,2026-04-08 09:22:56
+47646363,Modern Generic SVGA driver for Windows 3.1,sports,72,19,userbinator,2026-04-08 09:22:56
+47674234,"""The new Copilot app for Windows 11 is really just Microsoft Edge""",sports,66,45,bundie,2026-04-08 09:22:56
+47633676,"Extra usage credit for Pro, Max, and Team plans",sports,64,61,angst,2026-04-08 09:22:56
+47673928,Record wind and solar saved UK from gas imports worth £1B in March 2026,sports,57,20,mindracer,2026-04-08 09:22:56
+47681241,Anthropic's Project Glasswing sounds necessary to me,sports,38,5,simonw,2026-04-08 09:22:56
+47656146,"New Copilot for Windows 11 includes a full Microsoft Edge package, uses more RAM",sports,37,7,aaronsung,2026-04-08 09:22:56
+47644726,"Power-washing, pool-cleaning and mowing – playing games about mundane jobs",sports,24,4,andsoitis,2026-04-08 09:22:56
+47681453,"Sports bets on prediction markets ruled to be ""swaps,"" exempt from state laws",sports,16,5,nradov,2026-04-08 09:22:56
+47662682,Tattoo ink induces inflammation and alters the immune response to vaccination,sports,15,0,ryan_j_naughton,2026-04-08 09:22:56
+47624270,Q148637: Windows 95/98 Overwrites Boot-Sector Field on Floppy Disks (2001),sports,10,3,TMWNN,2026-04-08 09:22:56
+47682384,"GLM-5.1 matches Opus 4.6 in agentic performance, at ~1/3 actual cost",sports,10,2,skysniper,2026-04-08 09:22:56
+47667008,Show HN: I built a site that turns your Steam gaming hours into a RL skill tree,sports,6,1,naorz,2026-04-08 09:22:56
+47662234,A cryptography engineer's perspective on quantum computing timelines,science,519,214,thadt,2026-04-08 09:22:56
+47648404,My Google Workspace account suspension,science,368,217,zenincognito,2026-04-08 09:22:56
+47608495,Quantum computing bombshells that are not April Fools,science,265,107,Strilanc,2026-04-08 09:22:56
+47650502,Computational Physics (2nd Edition) (2025),science,182,22,teleforce,2026-04-08 09:22:56
+47675213,Google open-sources experimental agent orchestration testbed Scion,science,167,47,timbilt,2026-04-08 09:22:56
+47648438,Common drug tests lead to tens of thousands wrongful arrests a year,science,123,103,rawgabbit,2026-04-08 09:22:56
+47681274,Bitcoin and quantum computing,science,117,76,nehan,2026-04-08 09:22:56
+47656303,Case study: recovery of a corrupted 12 TB multi-device pool,science,116,64,salt4034,2026-04-08 09:22:56
+47627217,Running Out of Disk Space in Production,science,92,40,romes,2026-04-08 09:22:56
+47629485,A case study in testing with 100+ Claude agents in parallel,science,66,54,thejash,2026-04-08 09:22:56
+47665207,SOM: A minimal Smalltalk for teaching of and research on Virtual Machines,science,53,0,tosh,2026-04-08 09:22:56
+47641277,A new gene therapy is giving people born deaf the chance to hear,science,52,7,bilsbie,2026-04-08 09:22:56
+47628163,Boneyard: Generate pixel-perfect skeleton screens from your real DOM,science,25,12,steveharing1,2026-04-08 09:22:56
+47611993,VR Realizes the Cyberspace Metaphor,science,17,17,dryadin,2026-04-08 09:22:56
+47681938,A DNA Archive Built to Identify Missing Migrants Has Vanished,science,7,0,EA-3167,2026-04-08 09:22:56
+47663650,NASA's Artemis II Crew Flies Around the Moon (Official Broadcast) [video],science,6,1,gwbas1c,2026-04-08 09:22:56
+47612601,"Sweden goes back to basics, swapping screens for books in the classroom",entertainment,902,432,novaRom,2026-04-08 09:22:56
+47625952,Show HN: I built a frontpage for personal blogs,entertainment,780,194,ramkarthikk,2026-04-08 09:22:56
+47633947,The FAA’s flight restriction for drones is an attempt to criminalize filming ICE,entertainment,552,181,detaro,2026-04-08 09:22:56
+47664186,"Battle for Wesnoth: open-source, turn-based strategy game",entertainment,511,153,akyuu,2026-04-08 09:22:56
+47666024,Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS,entertainment,424,189,MattHart88,2026-04-08 09:22:56
+47655392,Show HN: I made a YouTube search form with advanced filters,entertainment,315,201,nevernothing,2026-04-08 09:22:56
+47656501,The 1987 game “The Last Ninja” was 40 kilobytes,entertainment,296,184,keepamovin,2026-04-08 09:22:56
+47660853,Book review: There Is No Antimemetics Division,entertainment,273,205,ibobev,2026-04-08 09:22:56
+47673360,Show HN: Brutalist Concrete Laptop Stand (2024),entertainment,221,105,sam-bee,2026-04-08 09:22:56
+47630109,Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M,entertainment,193,75,MaximilianEmel,2026-04-08 09:22:56
+47642601,Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown,entertainment,173,30,laszlokorte,2026-04-08 09:22:56
+47639567,Show HN: TurboQuant-WASM – Google's vector quantization in the browser,entertainment,164,6,teamchong,2026-04-08 09:22:56
+47621438,Show HN: Made a little Artemis II tracker,entertainment,153,61,codingmoh,2026-04-08 09:22:56
+47606560,"Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",entertainment,152,121,kasparnoor,2026-04-08 09:22:56
+47673394,"Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",entertainment,148,125,Zm44,2026-04-08 09:22:56
+47680309,Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon,entertainment,137,20,MediaSquirrel,2026-04-08 09:22:56
+47645025,Show HN: Contrapunk – Real-time counterpoint harmony from guitar input,entertainment,118,54,waveywaves,2026-04-08 09:22:56
+47681112,Show HN: An interactive map of Tolkien's Middle-earth,entertainment,115,22,frasermarlow,2026-04-08 09:22:56
+47612321,Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries,entertainment,114,66,rdme,2026-04-08 09:22:56
+47637828,Show HN: Tusk for macOS and Gnome,entertainment,110,38,factorialboy,2026-04-08 09:22:56
+47641615,Sopwith – 1984 Game (2000),entertainment,98,42,elvis70,2026-04-08 09:22:56
+47636579,Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V,entertainment,96,27,noone_youknow,2026-04-08 09:22:56
+47646504,Show HN: OsintRadar – Curated directory for osint tools,entertainment,83,9,lexalizer,2026-04-08 09:22:56
+47612277,Almighty Lisp: Lisp and Emacs Essentials Book,entertainment,79,4,nemoniac,2026-04-08 09:22:56
+47682098,Ex-Meta worker investigated for downloading 30k private Facebook photos,entertainment,77,30,1659447091,2026-04-08 09:22:56
